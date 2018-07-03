@@ -1,0 +1,4 @@
+Use the following notations:
+
+For "C:\Program Files", use "C:\PROGRA~1"
+For "C:\Program Files (x86)", use "C:\PROGRA~2"
